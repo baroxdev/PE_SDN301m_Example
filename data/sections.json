@@ -1,0 +1,110 @@
+[
+{
+  "_id": {
+    "$oid": "64916da37f8a6ac611905603"
+  },
+  "sectionName": "Flutter & Dart Basics",
+  "sectionDescription": "Time to practice with some of the Flutter & Dart basics you gained up to this point.",
+  "duration": 251,
+  "isMainTask": true,
+  "course": {
+    "$oid": "64916be07f8a6ac6119055fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64916de77f8a6ac611905607"
+  },
+  "sectionName": "Building Responsive & Adaptive User Interfaces",
+  "sectionDescription": "Building Responsive & Adaptive User Interfaces [EXPENSE TRACKER APP]",
+  "duration": 323,
+  "isMainTask": true,
+  "course": {
+    "$oid": "64916be07f8a6ac6119055fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64916e0b7f8a6ac61190560a"
+  },
+  "sectionName": "Building Multi-Screen Apps & Navigating Between Screens",
+  "sectionDescription": "Building Multi-Screen Apps & Navigating Between Screens",
+  "duration": 214,
+  "isMainTask": true,
+  "course": {
+    "$oid": "64916be07f8a6ac6119055fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64916e727f8a6ac611905610"
+  },
+  "sectionName": "Working with Express.js",
+  "sectionDescription": "Time for the second assignment of this module, are you ready?",
+  "duration": 160,
+  "isMainTask": true,
+  "course": {
+    "$oid": "64916b697f8a6ac6119055fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "64916ea17f8a6ac611905612"
+  },
+  "sectionName": "Working with Dynamic Content & Adding Templating Engines",
+  "sectionDescription": "We learned a lot about Pug, Handlebars and EJS so let's see if we know how to use these templating engines now!",
+  "duration": 321,
+  "isMainTask": false,
+  "course": {
+    "$oid": "64916b697f8a6ac6119055fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "64916f047f8a6ac611905616"
+  },
+  "sectionName": "Hibernate, JPA and JDBC",
+  "sectionDescription": "Hibernate, JPA and JDBC",
+  "duration": 144,
+  "isMainTask": true,
+  "course": {
+    "$oid": "64916c557f8a6ac611905600"
+  }
+},
+{
+  "_id": {
+    "$oid": "64916f317f8a6ac611905619"
+  },
+  "sectionName": "REST API",
+  "sectionDescription": "Spring Boot REST: Spring Data REST",
+  "duration": 179,
+  "isMainTask": true,
+  "course": {
+    "$oid": "64916c557f8a6ac611905600"
+  }
+},
+{
+  "_id": {
+    "$oid": "64916f877f8a6ac61190561d"
+  },
+  "sectionName": "React Basics & Working With Components",
+  "sectionDescription": "In this course module, you learned about key React features which you must know for every React app you're going to build! Hence it's time to check what you learned and verify that we're all on the same page!",
+  "duration": 130,
+  "isMainTask": true,
+  "course": {
+    "$oid": "64916b3b7f8a6ac6119055fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "64916fb07f8a6ac61190561f"
+  },
+  "sectionName": "React State & Working with Events",
+  "sectionDescription": "Time to practice what you learned about events and state in React apps.",
+  "duration": 210,
+  "isMainTask": true,
+  "course": {
+    "$oid": "64916b3b7f8a6ac6119055fa"
+  }
+}
+]
